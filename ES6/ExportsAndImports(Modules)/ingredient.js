@@ -1,3 +1,5 @@
+// ingredient.js
+
 const ingredient = {
   name: 'tomato',
 };
